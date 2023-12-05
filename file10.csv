@@ -1,0 +1,10 @@
+NAME, EMPID, AGE
+ABCD, 1998, 28
+PQSRT, 1999, 30
+AJAY, 1994, 28
+   
+wile[ age -gt 30 ]
+do
+  echo " Name of the employee "
+done 
+ 		
